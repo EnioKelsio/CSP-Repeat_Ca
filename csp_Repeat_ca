@@ -11,7 +11,7 @@
     .conteiner{
       display: grid;
       grid-template-columns: auto auto;
-      grid-template-rows: auto;
+      grid-gap: 5px;
 
     }
     .item{
@@ -25,7 +25,16 @@
 
 <body>
   <div class="conteiner">
-     <div class="tem"> Templ </div>
+     <div class="item"> Templ </div>
+     <div class="item"> Templ </div>
+     <div class="item"> Templ </div>
+     <div class="item"> Templ </div>
+     <div class="item"> Templ </div>
+     <div class="item"> Templ </div>
+     <div class="item"> Templ </div>
+     <div class="item"> Templ </div>
+     <div class="item"> Templ </div>
+     <div class="item"> Templ </div>
 </body>
 
 </html>
