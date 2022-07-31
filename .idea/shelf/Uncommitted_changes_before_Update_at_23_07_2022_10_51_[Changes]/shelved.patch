@@ -1,0 +1,18 @@
+Index: csp_Repeat_ca
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!doctype html>\r\n<html lang=\"en\">\r\n\r\n<head>\r\n  <title> Repeat CA</title>\r\n  <style>\r\n    body {\r\n      font-family: Arial;\r\n      color: #000;\r\n    }\r\n    .conteiner{\r\n      display: grid;\r\n      grid-template-columns: auto auto;\r\n      grid-gap: 5px;\r\n\r\n    }\r\n    .item{\r\n      background-color: #048;\r\n      color: #fff;\r\n      border:1px solid #000;\r\n      text-align: center;\r\n    }\r\n  </style>\r\n</head>\r\n\r\n<body>\r\n  <div class=\"conteiner\">\r\n     <div class=\"item\"> Templ </div>\r\n     <div class=\"item\"> Templ </div>\r\n     <div class=\"item\"> Templ </div>\r\n     <div class=\"item\"> Templ </div>\r\n     <div class=\"item\"> Templ </div>\r\n     <div class=\"item\"> Templ </div>\r\n     <div class=\"item\"> Templ </div>\r\n     <div class=\"item\"> Templ </div>\r\n     <div class=\"item\"> Templ </div>\r\n     <div class=\"item\"> Templ </div>\r\n</body>\r\n\r\n</html>\r\n\r\n
+===================================================================
+diff --git a/csp_Repeat_ca b/csp_Repeat_ca
+--- a/csp_Repeat_ca	
++++ b/csp_Repeat_ca	
+@@ -20,6 +20,9 @@
+       border:1px solid #000;
+       text-align: center;
+     }
++    .it1{
++    grid-
++    }
+   </style>
+ </head>
+ 
